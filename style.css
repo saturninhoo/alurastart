@@ -18,8 +18,8 @@ body {
 }
 
 .escola{
-    background: rgb(191,242,201);
-    background: radial-gradient(circle, rgba(191,242,201,1) 0%, rgba(242,188,188,1) 100%);
+    background: rgb(255,143,143);
+    background: linear-gradient(90deg, rgba(255,143,143,1) 0%, rgba(255,143,143,1) 0%, rgba(255,143,143,1) 100%);
     color:white;
     display: flex;
     justify-content: center;
